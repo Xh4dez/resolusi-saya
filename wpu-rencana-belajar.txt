@@ -1,5 +1,7 @@
 RENCANA BELAJAR 
 -JAVASCRIPT
   *DOM javascript
+-FRAMEWORK JAVASCRIPT
+ *Vue.js
 -FRAMEWORK CSS
--fundamental struktur dasar data
+ 
