@@ -1,6 +1,8 @@
 RENCANA BELAJAR 
 -JAVASCRIPT
   *DOM javascript
+-FRAMEWORK JAVASCRIPT
+ *React.js
 -FRAMEWORK CSS
  *Tailwind 
 -fundamental struktur dasar data
